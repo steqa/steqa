@@ -1,7 +1,7 @@
 ### Languages and Tools
 [![Python](https://img.shields.io/badge/Python-30363d?style=flat-square&logo=Python&logoColor=3b77a8)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-30363d?style=flat-square&logo=Django&logoColor=2ba977)](https://www.djangoproject.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-30363d?style=flat-square&logo=MySQL&logoColor=00758f)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-30363d?style=flat-square&logo=SQLite&logoColor=00758f)](https://sqlite.org/index.html)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363d?style=flat-square&logo=PostgreSQL&logoColor=336791)](https://www.postgresql.org/)
 [![Git](https://img.shields.io/badge/Git-30363d?style=flat-square&logo=Git&logoColor=f05133)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-30363d?style=flat-square&logo=Docker&logoColor=2496ed)](https://www.docker.com/)
