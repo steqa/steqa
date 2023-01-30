@@ -10,5 +10,5 @@
 [![CSS](https://img.shields.io/badge/CSS-30363d?style=flat-square&logo=CSS3&logoColor=2965f1)](https://www.w3.org/Style/CSS/)
 
 ### Contact me
-[![Telegram](https://img.shields.io/badge/Telegram-30363d?style=flat-square&logo=Telegram&logoColor=30a8db)](https://vk.com/stepan_ivanov_me)
+[![Telegram](https://img.shields.io/badge/Telegram-30363d?style=flat-square&logo=Telegram&logoColor=30a8db)](https://t.me/steqaa)
 [![VKontakte](https://img.shields.io/badge/VK-30363d?style=flat-square&logo=VK&logoColor=0077ff)](https://vk.com/stepan_ivanov_me)
