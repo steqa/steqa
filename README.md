@@ -11,4 +11,4 @@
 
 ### Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-30363d?style=flat-square&logo=Telegram&logoColor=30a8db)](https://t.me/steqaa)
-[![VKontakte](https://img.shields.io/badge/VK-30363d?style=flat-square&logo=VK&logoColor=0077ff)](https://vk.com/stepan_ivanov_me)
+[![VKontakte](https://img.shields.io/badge/VK-30363d?style=flat-square&logo=VK&logoColor=0077ff)](https://vk.com/steqaa)
