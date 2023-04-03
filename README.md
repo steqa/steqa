@@ -1,16 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Semibold&size=24&duration=3000&pause=1&color=e4e8ec&multiline=true&width=435&height=70&lines=Stepan+Ivanov;Backend+Developer)](https://git.io/typing-svg)
 
 ### Languages and Tools
-[![Python](https://img.shields.io/badge/Python-30363d?style=flat-square&logo=Python&logoColor=3b77a8)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-30363d?style=flat-square&logo=Django&logoColor=2ba977)](https://www.djangoproject.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-30363d?style=flat-square&logo=SQLite&logoColor=00758f)](https://sqlite.org/index.html)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363d?style=flat-square&logo=PostgreSQL&logoColor=336791)](https://www.postgresql.org/)
-[![Git](https://img.shields.io/badge/Git-30363d?style=flat-square&logo=Git&logoColor=f05133)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-30363d?style=flat-square&logo=Docker&logoColor=2496ed)](https://www.docker.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-30363d?style=flat-square&logo=JavaScript&logoColor=f7df1e)](http://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
-[![HTML](https://img.shields.io/badge/HTML-30363d?style=flat-square&logo=HTML5&logoColor=e44d26)](https://html.spec.whatwg.org/multipage/)
-[![CSS](https://img.shields.io/badge/CSS-30363d?style=flat-square&logo=CSS3&logoColor=2965f1)](https://www.w3.org/Style/CSS/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/index.html)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](http://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 
 ### Contact me
-[![Telegram](https://img.shields.io/badge/Telegram-30363d?style=flat-square&logo=Telegram&logoColor=30a8db)](https://t.me/steqaa)
-[![VKontakte](https://img.shields.io/badge/VK-30363d?style=flat-square&logo=VK&logoColor=0077ff)](https://vk.com/steqaa)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/steqaa)
+[![VKontakte](https://img.shields.io/badge/VK-0078ff?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/steqaa)
