@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1&color=e4e8ec&multiline=true&width=435&height=70&lines=Stepan+Ivanov;Backend+Developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=1&pause=5&color=E4E8EC&multiline=true&repeat=false&width=950&height=35&lines=Languages+and+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=1&pause=5&color=E4E8EC&multiline=true&repeat=false&width=435&height=35&lines=Languages+and+Tools)](https://git.io/typing-svg) <br>
 [![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![SQLite](https://img.shields.io/badge/SQLITE-07405E?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org/index.html)
@@ -13,6 +13,6 @@
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=1&pause=5&color=E4E8EC&multiline=true&repeat=false&width=950&height=35&lines=Contact+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=1&pause=5&color=E4E8EC&multiline=true&repeat=false&width=435&height=35&lines=Contact+me)](https://git.io/typing-svg) <br>
 [![Telegram](https://img.shields.io/badge/TELEGRAM-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/steqaa)
 [![VKontakte](https://img.shields.io/badge/VK-0078ff?style=flat-square&logo=VK&logoColor=white)](https://vk.com/steqaa)
