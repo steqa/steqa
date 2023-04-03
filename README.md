@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1&color=e4e8ec&multiline=true&width=435&height=70&lines=Stepan+Ivanov;Backend+Developer)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=1&pause=5&color=E4E8EC&multiline=true&repeat=false&width=435&height=35&lines=Languages+and+Tools)](https://git.io/typing-svg) <br>
