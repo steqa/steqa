@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Semibold&size=24&duration=3000&pause=1&color=3F84E4&multiline=true&width=435&height=70&lines=Stepan+Ivanov;Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Semibold&size=24&duration=3000&pause=1&color=e4e8ec&multiline=true&width=435&height=70&lines=Stepan+Ivanov;Backend+Developer)](https://git.io/typing-svg)
 
 ### Languages and Tools
 [![Python](https://img.shields.io/badge/Python-30363d?style=flat-square&logo=Python&logoColor=3b77a8)](https://www.python.org/)
