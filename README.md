@@ -13,4 +13,3 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=1&pause=5&color=2f81f7&multiline=true&repeat=false&width=435&height=35&lines=Contact+me)](https://git.io/typing-svg) <br>
 [![Telegram](https://img.shields.io/badge/TELEGRAM-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/steqaa)
-[![VKontakte](https://img.shields.io/badge/VK-0078ff?style=flat-square&logo=VK&logoColor=white)](https://vk.com/steqaa)
