@@ -1,15 +1,31 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1&color=2f81f7&multiline=true&width=435&height=70&lines=Stepan+Ivanov;Python+Backend+Developer)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Stepan Ivanov</h1>
+<h3 align="center">Python Backend developer</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=1&pause=5&color=2f81f7&multiline=true&repeat=false&width=435&height=35&lines=Languages+and+Tools)](https://git.io/typing-svg) <br>
-[![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![SQLite](https://img.shields.io/badge/SQLITE-07405E?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org/index.html)
-[![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Git](https://img.shields.io/badge/GIT-f05033?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/DOCKER-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](http://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=1&pause=5&color=2f81f7&multiline=true&repeat=false&width=435&height=35&lines=Contact+me)](https://git.io/typing-svg) <br>
-[![Telegram](https://img.shields.io/badge/TELEGRAM-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/steqaa)
+<h3 align="left">About:</h3>
+
+* 🌍  I'm based in Russia, Kemerovo
+* 📫  You can contact me at [i.stepan.work@gmail.com](mailto:i.stepan.work@gmail.com)
+* 🚀  I’m currently working on [Eventopolis](http://github.com/steqa/eventopolis)
+* 📄  Know about my experiences [Resume](https://docs.google.com/document/d/1fhxjyKMH_i63sjHhBTYSssLlSKTeC0H4JO0Ss_jIaAA/edit)
+
+<h3 align="left">Skills:</h3>
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/steqa/readme_icons/blob/main/python.ico" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://github.com/steqa/readme_icons/blob/main/docker.ico" width="36" height="36" alt="docker" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/steqa/readme_icons/blob/main/postgresql.ico" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://github.com/steqa/readme_icons/blob/main/sqlite.ico" width="36" height="36" alt="sqlite" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/steqa/readme_icons/blob/main/django.ico" width="36" height="36" alt="Django" /></a>
+</p>
+
+<h3 align="left">Socials:</h3>
+<p align="left">
+<a href="https://t.me/steqa/" target="_blank" rel="noreferrer"><img src="https://github.com/steqa/readme_icons/blob/main/telegram.ico" width="36" height="36" alt="telegram" /></a>
+<a href="https://discord.com/users/steqa#4307" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="discord" /></a>
+</p>
