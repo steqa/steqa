@@ -26,6 +26,6 @@
 
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://t.me/steqa/" target="_blank" rel="noreferrer"><img src="https://github.com/steqa/readme_icons/blob/main/telegram.ico" width="36" height="36" alt="telegram" /></a>
+<a href="https://t.me/steqaa/" target="_blank" rel="noreferrer"><img src="https://github.com/steqa/readme_icons/blob/main/telegram.ico" width="36" height="36" alt="telegram" /></a>
 <a href="https://discord.com/users/steqa#4307" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="discord" /></a>
 </p>
