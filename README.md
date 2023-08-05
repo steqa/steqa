@@ -20,7 +20,6 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/steqa/readme_icons/blob/main/postgresql.ico" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://github.com/steqa/readme_icons/blob/main/sqlite.ico" width="36" height="36" alt="sqlite" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/steqa/readme_icons/blob/main/django.ico" width="36" height="36" alt="Django" /></a>
 </p>
 
