@@ -7,7 +7,7 @@
 * 🌍  I'm based in Russia, Kemerovo
 * 📫  You can contact me at [i.stepan.work@gmail.com](mailto:i.stepan.work@gmail.com)
 * 🚀  I’m currently working on [Eventopolis](http://github.com/steqa/eventopolis)
-* 📄  Know about my experiences [Resume](https://docs.google.com/document/d/1fhxjyKMH_i63sjHhBTYSssLlSKTeC0H4JO0Ss_jIaAA/edit)
+* 📄  Know about my experiences [Resume](https://drive.google.com/file/d/16VQET8WuZ3CUt8ppyaDcPE9_-v-DD5oa/view?usp=sharing)
 
 <h3 align="left">Skills:</h3>
 <p align="left">
