@@ -27,5 +27,5 @@
 <p align="left">
 <a href="https://t.me/steqaa/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/OPnN6N8.png" width="36" height="36" alt="telegram" /></a>
 <a href="https://vk.com/steqaa/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/F05cxYC.png" width="36" height="36" alt="vk" /></a>
-<a href="https://discord.com/users/steqa#4307" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/k1xrFgB.png" width="36" height="36" alt="discord" /></a>
+<a href="https://discord.com/users/steqa" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/k1xrFgB.png" width="36" height="36" alt="discord" /></a>
 </p>
