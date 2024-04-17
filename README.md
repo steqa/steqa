@@ -17,6 +17,5 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-BOOTSTRAP-000000?logo=bootstrap&logoColor=white&color=%236c11f3" height="23" alt="Bootstrap" /></a>
 
 ### Socials
-<a href="https://t.me/steqaa/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Telegram-000000?logo=telegram&logoColor=white&color=%2318a3e6" height="23" alt="telegram" /></a>
-<a href="https://vk.com/steqaa/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-VKontakte-000000?logo=vk&color=%230077fe" height="23" alt="vk" /></a>
-<a href="https://discord.com/users/steqa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Discord-000000?logo=discord&logoColor=white&color=%235962fc" height="23" alt="discord" /></a>
+<a href="https://t.me/steqaa/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-TELEGRAM-000000?logo=telegram&logoColor=white&color=%2318a3e6" height="23" alt="telegram" /></a>
+<a href="https://vk.com/steqaa/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-VKONTAKTE-000000?logo=vk&color=%230077fe" height="23" alt="vk" /></a>
