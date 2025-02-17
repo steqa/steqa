@@ -1,4 +1,4 @@
-### Skills
+## SKILLS
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-PYTHON-000000?logo=python&logoColor=white&color=%231f6feb" height="23" alt="Python" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-FASTAPI-000000?logo=fastapi&logoColor=white&color=%231f6feb" height="23" alt="FastApi" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-DJANGO-000000?logo=django&logoColor=white&color=%231f6feb" height="23" alt="Django" /></a>
@@ -13,5 +13,5 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-GIT-000000?logo=git&logoColor=white&color=%231f6feb" height="23" alt="Git" /></a>
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LINUX-000000?logo=archlinux&logoColor=white&color=%231f6feb" height="23" alt="Git" /></a>
 
-### Contacts
+## CONTACTS
 <a href="https://t.me/steqaa/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-TELEGRAM-000000?logo=telegram&logoColor=white&color=%231f6feb" height="23" alt="telegram" /></a>
