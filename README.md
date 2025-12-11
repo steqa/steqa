@@ -1,3 +1,5 @@
+<a href="https://drive.google.com/file/d/1j3MpH8R-IHfcV0Ve5qS0o-GaLyWbA_Qw/view?usp=sharing" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-RESUME-000000?logo=readthedocs&logoColor=white&color=%231f6feb" height="23" alt="resume" /></a>
+
 ## SKILLS
 
 #### Backend:
@@ -26,5 +28,3 @@
 
 ## CONTACTS
 <a href="https://t.me/steqaa/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-TELEGRAM-000000?logo=telegram&logoColor=white&color=%231f6feb" height="23" alt="telegram" /></a>
-
-<a href="https://drive.google.com/file/d/1j3MpH8R-IHfcV0Ve5qS0o-GaLyWbA_Qw/view?usp=sharing" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-RESUME-000000?logo=readthedocs&logoColor=white&color=%231f6feb" height="23" alt="resume" /></a>
