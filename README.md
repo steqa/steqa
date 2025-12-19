@@ -1,4 +1,4 @@
-<a href="https://drive.google.com/file/d/1j3MpH8R-IHfcV0Ve5qS0o-GaLyWbA_Qw/view?usp=sharing" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-RESUME-000000?logo=readthedocs&logoColor=white&color=%231f6feb" height="23" alt="resume" /></a>
+<a href="https://drive.google.com/file/d/1C0dVX11LLQI-QybOxGpgNn01I1HL4oe-/view?usp=sharing" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-RESUME-000000?logo=readthedocs&logoColor=white&color=%231f6feb" height="23" alt="resume" /></a>
 
 ## SKILLS
 
