@@ -1,5 +1,3 @@
-<a href="https://drive.google.com/file/d/1DLXUrgIt4OvCjFA_r0K_yVsrwf6TQc4X/view?usp=sharing" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-RESUME-000000?logo=readthedocs&logoColor=white&color=%231f6feb" height="23" alt="resume" /></a>
-
 ## SKILLS
 
 #### Backend:
