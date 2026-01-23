@@ -25,4 +25,4 @@
 <a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-CI/CD (AZURE DEVOPS)-000000?logo=azure&logoColor=white&color=%231f6feb" height="23" alt="Azure DevOps" /></a>
 
 ## CONTACTS
-<a href="https://t.me/steqaa/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-TELEGRAM-000000?logo=telegram&logoColor=white&color=%231f6feb" height="23" alt="telegram" /></a>
+<a href="https://t.me/jobstepan/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-TELEGRAM-000000?logo=telegram&logoColor=white&color=%231f6feb" height="23" alt="telegram" /></a>
