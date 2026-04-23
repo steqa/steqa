@@ -1,6 +1,7 @@
 ## SKILLS
 
 #### Backend:
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-GO-000000?logo=go&logoColor=white&color=%231f6feb" height="23" alt="Go" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-PYTHON-000000?logo=python&logoColor=white&color=%231f6feb" height="23" alt="Python" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-FASTAPI-000000?logo=fastapi&logoColor=white&color=%231f6feb" height="23" alt="FastApi" /></a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-JAVA-000000?logo=openjdk&logoColor=white&color=%231f6feb" height="23" alt="Java" /></a>
